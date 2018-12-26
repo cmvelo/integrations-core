@@ -1,5 +1,8 @@
 # CHANGELOG - spark
 
+## 1.6.0-rc.1 / 2018-12-26
+
+
 ## 1.5.0 / 2018-12-20
 
 * [Added] Add streaming statistics metrics to the spark integration. See [#2437](https://github.com/DataDog/integrations-core/pull/2437).
