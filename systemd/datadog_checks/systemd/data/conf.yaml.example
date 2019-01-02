@@ -1,0 +1,8 @@
+init_config:
+
+instances:
+  # Names of systemd units.
+  - unit_names:
+    - networking.service
+    - cron.service
+    - ssh.service
